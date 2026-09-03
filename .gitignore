@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Build output
+build/
+target/
+
+# macOS system file
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment variables (never commit secrets)
+.env
+secrets.json
+
+# Log files
+*.log
+logs/
+
